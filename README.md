@@ -45,6 +45,3 @@ JStack was built with a strong focus on clean design, responsiveness, and intera
 This project was developed as a personal initiative to explore and apply full-stack web development skills. It combines frontend technologies (HTML, CSS, JavaScript) with backend logic using PHP — including form handling and email functionality.
 All code and design were created by me as part of my learning and portfolio development.
 
-Contact
-
-Feel free to reach out via [your email or LinkedIn] for feedback, collaboration, or questions.
